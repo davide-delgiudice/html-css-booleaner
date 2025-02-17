@@ -82,23 +82,26 @@ h2{
 
 .imagine{
     background-image: url(..//img/monitor.jpg);
-    height: 210px;
+    height: 150px;
     background-repeat: no-repeat;
+    background-size: contain;
     margin-top: 15px;
     margin-left: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding: 10px;
 }
 
 .imagine2{
     background-image: url(../img/graph.jpg);
-    height: 210px;
+    height: 150px;
     background-repeat: no-repeat;
+    background-size: contain;
     margin-top: 15px;
     margin-left: 10px;
-}
-
-.image-font{
     color: white;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.2em;
     padding: 10px;
 }
