@@ -57,6 +57,14 @@ ul{
     background-color: #b1e5f2;
 }
 
+.cell1{
+    width: 25%;
+}
+
+.cell2{
+    width: 50%;
+}
+
 .interest{
     color: rgb(122, 122, 122);
     font-weight: bold;
