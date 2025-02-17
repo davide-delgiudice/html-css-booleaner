@@ -49,6 +49,13 @@ ul{
     margin-left: 20px;
 }
 
+.table-size{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-collapse: collapse;
+}
+
 .table-color1{
     background-color: #20a9e5;
 }
