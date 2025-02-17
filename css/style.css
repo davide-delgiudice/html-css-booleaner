@@ -32,7 +32,7 @@ h1{
 }
 
 .small-font{
-    font-size: small;
+    font-size: 0.75em;
 }
 
 .container-2{
@@ -44,7 +44,7 @@ h1{
     background-color: yellow;
 }
 
-.unordered-margin{
+ul{
     margin-top: 20px;
     margin-left: 20px;
 }
@@ -55,4 +55,34 @@ h1{
 
 .table-color2{
     background-color: #b1e5f2;
+}
+
+.interest{
+    color: rgb(122, 122, 122);
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.imagine{
+    background-image: url(..//img/monitor.jpg);
+    height: 210px;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.imagine2{
+    background-image: url(../img/graph.jpg);
+    height: 210px;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.image-font{
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 10px;
 }
