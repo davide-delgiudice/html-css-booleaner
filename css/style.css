@@ -72,8 +72,9 @@ ul{
     width: 50%;
 }
 
-.interest{
+h2{
     color: rgb(122, 122, 122);
+    font-size: 1.1em;
     font-weight: bold;
     margin-top: 30px;
     margin-left: 10px;
